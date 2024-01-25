@@ -20,7 +20,7 @@ This Currency Converter project is a web application that allows users to conver
 
 ## Demo
 
-You can view a live demo of the Currency Converter project [here](#).
+You can view a live demo of the Currency Converter project [here](currencytocurrency.netlify.app).
 
 ![Currency Converter Demo](demo.gif)
 
@@ -32,4 +32,5 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/currency-converter.git
+   ```
 
