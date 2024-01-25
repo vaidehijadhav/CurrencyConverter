@@ -34,3 +34,4 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/currency-converter.git
    ```
 
+2. Open the project folder:
