@@ -9,7 +9,6 @@ This Currency Converter project is a web application that allows users to conver
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
