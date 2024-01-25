@@ -39,5 +39,10 @@ To run this project locally, follow these steps:
    cd currency-converter
    ```
 3. Open the index.html file in your preferred web browser.
-
+   
+## Usage
+1. Select the source currency from the dropdown menu.
+2. Enter the amount you want to convert.
+3. Select the target currency from the second dropdown menu.
+4. Click the "Convert" button to see the converted amount.
 
