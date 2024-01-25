@@ -35,6 +35,9 @@ To run this project locally, follow these steps:
    ```
 
 2. Open the project folder:
-```bash
-cd currency-converter
-```
+   ```bash
+   cd currency-converter
+   ```
+3. Open the index.html file in your preferred web browser.
+
+
