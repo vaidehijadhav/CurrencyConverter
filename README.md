@@ -21,8 +21,6 @@ This Currency Converter project is a web application that allows users to conver
 
 You can view a live demo of the Currency Converter project [here](https://currencytocurrency.netlify.app/).
 
-![Currency Converter Demo](demo.gif)
-
 ## Installation
 
 To run this project locally, follow these steps:
